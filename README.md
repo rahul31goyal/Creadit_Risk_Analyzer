@@ -1,7 +1,4 @@
-Here’s a **clean, professional, and visually appealing** version of your README that’s suitable for **GitHub, recruiters, and interviews**.
-I’ve improved structure, wording, emojis (minimal), and flow **without changing your technical content**.
 
----
 
 # 📊 Credit Risk Analyzer
 
